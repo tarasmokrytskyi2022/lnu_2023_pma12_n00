@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+HelloWorld/HelloWorld/HelloWorld/x64/
+HelloWorld/HelloWorld/.vs/HelloWorld/v17/.suo
+HelloWorld/HelloWorld/.vs/
+HelloWorld/HelloWorld/x64/Debug/HelloWorld.pdb
+HelloWorld/HelloWorld/HelloWorld/HelloWorld.vcxproj.user
