@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "Hello World(LNU)!\n";
+    std::cout << "Hello World(LNU2023)!\n";
 }
